@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -7,7 +7,6 @@
   <img alt="reactrouter" src="https://img.shields.io/badge/-React Router-b8142a?style=flat-square&logo=reactrouter&logoColor=white" />
   <img alt="reacthookform" src="https://img.shields.io/badge/-React Hook Form-ec5990?style=flat-square&logo=reacthookform&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="reactquery" src="https://img.shields.io/badge/-React Query-007ACC?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="StyledComponents" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -24,6 +23,6 @@
   <img alt="androidstudio" src="https://img.shields.io/badge/-Android Studio-31a86e?style=flat-square&logo=androidstudio&logoColor=white" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AVoudromnianos&rank=SECRET,SSS,SS,S,A,AA,AAA&theme=darkhub&margin-w=15no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=AVoudromnianos&rank=SECRET,SSS,SS,S,A,AA,AAA&theme=darkhub&margin-w=15no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66ceeb3986ab8b2c174957a6?variant=dark)](https://roadmap.sh)
